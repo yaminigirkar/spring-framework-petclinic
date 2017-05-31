@@ -23,7 +23,7 @@
         </div>
         <div class="form-group">
             <div class="col-sm-offset-2 col-sm-10">
-                <button type="submit" class="btn btn-default">Find Owner</button>
+                <button type="submit" class="btn btn-default">search the name by entering last name </button>
             </div>
         </div>
 
